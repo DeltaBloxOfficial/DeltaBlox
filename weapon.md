@@ -34,10 +34,6 @@
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 ---
 
 ### **Spooky Sword**:
