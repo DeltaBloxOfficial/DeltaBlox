@@ -8,3 +8,4 @@
     - [Weapons](weapon)
     - [Armors](armor)
     - [Food](food)
+    - [Misc](misc)
