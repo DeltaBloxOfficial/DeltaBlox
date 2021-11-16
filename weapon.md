@@ -32,8 +32,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ---
 
 ### **Spooky Sword**:
@@ -51,22 +49,6 @@
 </div>
 
 ---
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
