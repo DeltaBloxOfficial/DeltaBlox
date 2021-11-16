@@ -1,9 +1,9 @@
-# Weapons:s
+# Weapons:
 <font size="5">To get back to the main page click <a href="../DeltaBlox">this!</a></font>
 
 ---
 
-- [Weapons:s](#weaponss)
+- [Weapons:](#weapons)
   - [## **Swords:**](#-swords)
     - [**Wood Blade**:](#wood-blade)
     - [**Spooky Sword**:](#spooky-sword)
@@ -53,5 +53,3 @@
 &nbsp;
 
 &nbsp;
-
----
