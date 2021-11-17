@@ -9,3 +9,6 @@
     - [Armors](armor)
     - [Food](food)
     - [Misc](misc)
+- **NPC Related**:
+  - [NPCs](npcs)
+    - [Relation System](relations)
