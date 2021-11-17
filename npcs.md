@@ -25,13 +25,14 @@
 <div style="font-size:120%;">
   <p><span style="color:rgb(200,0,255);">Alightment:</span> Corruption</p>
   <p><span style="color:rgb(0,255,0);">Temperment:</span> Friendly </p>
-  <p><span style="color:rgb(200,200,0);">Quote:</span> "Hey sweetheart, don't let the creatures outside make you believe we're all agressive." </p>
 </div>
 
 &nbsp;
 
 &nbsp;
 
+<font size="4">"Hey sweetheart, don't let the creatures outside make you believe we're all agressive."</a></font>
 
+&nbsp;
 
 ---
