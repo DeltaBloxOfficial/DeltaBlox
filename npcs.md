@@ -7,8 +7,13 @@
 ---
 
 - [NPCs](#npcs)
+  - [Nocturne:](#nocturne)
+
+
 
 ## Nocturne:
+
+---
 
 <img src="https://i.imgur.com/1ttxZRH.png" align="left" width="20%">
 
@@ -16,7 +21,6 @@
 
 &nbsp;
 
----
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(200,0,255);">Alightment:</span> Corruption</p>
@@ -27,5 +31,12 @@
 &nbsp;
 
 &nbsp;
+
+
+&nbsp;
+
+&nbsp;
+
+
 
 ---
