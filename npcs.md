@@ -29,7 +29,6 @@
 
 &nbsp;
 
-&nbsp;
 
 <font size="4">"Hey sweetheart, don't let the creatures outside make you believe we're all agressive."</font>
 
